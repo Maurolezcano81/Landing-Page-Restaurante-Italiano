@@ -1,0 +1,18 @@
+@import "reset.css";
+@import "navbar.css";
+@import "variables.css";
+@import "hero.css";
+@import "features.css";
+@import "footer.css";
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+body{
+    font-size: 1.6rem;
+}
